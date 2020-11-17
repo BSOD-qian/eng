@@ -1,4 +1,4 @@
-# English <small>7.1.11</small>
+# English <small>7.1.12</small>
 
 > A simple way to get useful information.
 
