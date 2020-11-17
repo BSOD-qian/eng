@@ -1,3 +1,7 @@
+[TOC]
+
+
+
 # Welcome to Beijing
 
 Beijing is the capital of China and it has a long history. There are many places of interest in Beijing. As the saying goes, “He who doesn’t reach the Great Wall is not a true man.” In the north of Beijing, the Great Wall is a famous place for you to visit. It is a long wall with towers on it. People built it a long time ago with bricks and stones. You can enjoy great views from the wall. The Palace Museum is another interesting place you can’t miss. It is a place with many ancient buildings. If you are big fans of Chinese history, you must visit it. I’m sure it won’t let you down. Hope you’ll have a good time in Beijing.
