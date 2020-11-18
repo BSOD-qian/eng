@@ -1,7 +1,7 @@
 # English <small>7.1.12</small>
 
-> Happy birthday,Piao Junyi!
+> 生日快乐，陈奕旸！
 
 Powered by docsify
 
-![](https://api.xygeng.cn/Bing/)
+![](./birthday.png)
