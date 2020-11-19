@@ -1,7 +1,7 @@
 # English <small>7.1.12</small>
 
-> 生日快乐，陈奕旸！
+> 勤洗手
 
 Powered by docsify
 
-![](./birthday.png)
+![](https://api.xygeng.cn/Bing/)
