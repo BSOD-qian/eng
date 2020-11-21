@@ -4,7 +4,9 @@
     * [Unit 2](word/2.md)
     * [Unit 3](word/3.md)
     * [Unit 8](word/8.md)
-* 笔记
+* [笔记<sup>Beta</sup>](note.md)
     * [Unit 1](note/1.md)
+    * [Unit 2](note/2.md)
+    * [Unit 3](note/3.md)
 * [作文](zw.md)
 * Under Construction
