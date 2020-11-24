@@ -12,7 +12,17 @@
 </head>
 
 <body>
-  <div id="app">加载中</div>
+  <div id="app">加载中 - <abcde id="hitokoto_text">一言加载中</abcde></div>
+  <script>
+    fetch('https://v1.hitokoto.cn')
+      .then(response => response.json())
+      .then(data => {
+        const hitokoto = document.getElementById('hitokoto_text')
+        hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+        hitokoto.innerText = data.hitokoto
+      })
+      .catch(console.error)
+  </script>
   <script>
     window.$docsify = {
       loadSidebar: true,
@@ -39,6 +49,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 </body>
 
 </html>
