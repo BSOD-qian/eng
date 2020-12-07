@@ -1,7 +1,7 @@
 {
     "name": "English",
     "short_name": "English",
-    "start_url": "./book",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#fff",
     "description": "Hello,World!",
