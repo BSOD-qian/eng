@@ -9,20 +9,12 @@
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <link rel="manifest" href="./manifest.json">
 </head>
 
 <body>
-  <div id="app">加载中 - <abcde id="hitokoto_text">一言加载中</abcde></div>
-  <script>
-    fetch('https://v1.hitokoto.cn')
-      .then(response => response.json())
-      .then(data => {
-        const hitokoto = document.getElementById('hitokoto_text')
-        hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-        hitokoto.innerText = data.hitokoto
-      })
-      .catch(console.error)
-  </script>
+  <div id="app">加载中</div>
+
   <script>
     window.$docsify = {
       loadSidebar: true,

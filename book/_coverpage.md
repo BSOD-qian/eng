@@ -1,6 +1,6 @@
 # English <small>7.1.13</small>
 
-> <p id="hitokoto_text">:D 获取中...</p>
+> 21世纪最大的谎言：我爱学习，学习使我快乐
 
 Powered by docsify
 
