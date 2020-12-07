@@ -10,4 +10,3 @@
     * [Unit 3](note/3.md)
 * [作文](zw.md)
 * [Irregular verbs](iw.md)
-* <a href="./yiyan.html">加载页一言</a>
