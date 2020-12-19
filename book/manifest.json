@@ -1,6 +1,6 @@
 {
-    "name": "English",
-    "short_name": "English",
+    "name": "English Client",
+    "short_name": "English Cli",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#fff",

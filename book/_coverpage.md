@@ -1,4 +1,4 @@
-# English <small>7.1.13</small>
+# English
 
 > 不讲武德
 

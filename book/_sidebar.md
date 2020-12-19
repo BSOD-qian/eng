@@ -1,4 +1,4 @@
-* [Starting Place](README.md)
+* [Welcome Centre](README.md)
 * 短语
     * [Unit 1](word/1.md)
     * [Unit 2](word/2.md)

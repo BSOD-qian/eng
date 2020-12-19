@@ -1,9 +1,12 @@
-# Starting Place
+# Welcome Centre
 
-!> 请务必做好个人防护！Be sure to take personal protection!<br/>
+## 提示
+>[!NOTE]
+> 请务必做好个人防护！Be sure to take personal protection!<br/>
 了解疫情动态在[央视新闻](https://space.bilibili.com/456664753/dynamic)
 
-<details>
-<summary>提示</summary>
-这是English的未来版本，原MDUI版会在搬运完全完成后停止使用。
-</details>
+> [!ATTENTION]
+> 【新冠疫苗去哪接种？ 转存！ 】国务院联防联控机制举行新闻发布会通报：①目前各地都在积极落实为群众接种疫苗提供便利服务的各项措施，各地将按要求及时公布接种点和接种时间，大家可关注所在地的卫生行政部门或疾病预防控制机构发布的信息。②也会根据接种需求考虑设立临时接种点，上门服务。③接种条件将有严格规范。④所有接种点都会提供接种新冠疫苗的凭证。提醒：接种疫苗要携带身份证，做好疫苗登记！ 
+
+## 目录
+[menu_placeholder](_sidebar.md ':include')
