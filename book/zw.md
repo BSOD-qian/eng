@@ -89,4 +89,7 @@ I would like to live in the suburbs because it is quiet and peaceful. I would li
 
 I have just moved to Water Bay. My new flat is in the suburbs, so it’s very quiet and peaceful. There isn’t much traffic. There are not any shops or restaurants. There are a lot of trees, flowers and birds. There is a beach at the bottom of some steep steps. I usually take Peter and Mary to the beach at weekends. We often read storybooks at home. And sometimes we watch stars at night. I think life in the suburbs is so pleasant and relaxing that I like living in the suburbs very much. 
 
- 
+ ![1](./pic/1.jpg)
+ ![2](./pic/2.jpg)
+ ![3](./pic/3.jpg)
+ ![4](./pic/4.jpg)
