@@ -147,55 +147,6 @@
       
       
         
-          
-<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
-  <div class="md-tabs__inner md-grid">
-    <ul class="md-tabs__list">
-      
-        
-  
-  
-
-
-  <li class="md-tabs__item">
-    <a href="/." class="md-tabs__link">
-      Welcome
-    </a>
-  </li>
-
-      
-        
-  
-  
-
-
-  <li class="md-tabs__item">
-    <a href="/%E5%AF%92%E5%81%87/" class="md-tabs__link">
-      寒假进程
-    </a>
-  </li>
-
-      
-        
-  
-  
-
-
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="/%E7%9F%AD%E8%AF%AD/1/" class="md-tabs__link">
-        短语
-      </a>
-    </li>
-  
-
-      
-    </ul>
-  </div>
-</nav>
-        
       
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
@@ -209,10 +160,8 @@
 
 
 
-  
 
-
-<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="/." title="English 7.2" class="md-nav__button md-logo" aria-label="English 7.2">
       
@@ -247,22 +196,7 @@
   
     <li class="md-nav__item">
       <a href="/." class="md-nav__link">
-        Welcome
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="/%E5%AF%92%E5%81%87/" class="md-nav__link">
-        寒假进程
+        欢迎
       </a>
     </li>
   
@@ -279,14 +213,14 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
       
-      <label class="md-nav__link" for="nav-3">
+      <label class="md-nav__link" for="nav-2">
         短语
         <span class="md-nav__icon md-icon"></span>
       </label>
       <nav class="md-nav" aria-label="短语" data-md-level="1">
-        <label class="md-nav__title" for="nav-3">
+        <label class="md-nav__title" for="nav-2">
           <span class="md-nav__icon md-icon"></span>
           短语
         </label>
@@ -359,7 +293,7 @@
       <script>
         app = initialize({
           base: "/",
-          features: ['navigation.tabs'],
+          features: ['navigation.instant'],
           search: Object.assign({
             worker: "/assets/javascripts/worker/search.9c0e82ba.min.js"
           }, typeof search !== "undefined" && search)
