@@ -11,6 +11,7 @@ theme:
     repo: fontawesome/brands/github-alt
 repo_url: https://github.com/BSOD-qian/eng
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.tasklist:
       custom_checkbox: true
